@@ -14,6 +14,7 @@ Jegyzetek és példa kódok [BMEVIAUAV42 Mikroszolgáltatások és konténeralap
   - [Api Gateway (elmélet)](https://www.aut.bme.hu/Upload/Course/VIAUAV42/hallgatoi_jegyzetek/05-API%20Gateway.pdf)
   - ["Todoapp" mintaalkalmazás](https://github.com/bmeviauav42/todoapp)
 - Kubernetes
+  - [Kubernetes ismertetése (előadás)](https://www.aut.bme.hu/Upload/Course/VIAUAV42/hallgatoi_jegyzetek/10-Kubernetes.pdf)
   - [Kubernetes alapok (feladatok)](Kubernetes/Kubernetes-alapok.md)
 
 ## Házi feladat
